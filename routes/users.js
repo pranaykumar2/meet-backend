@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const pool = require('../db');
+const jwt = require('jsonwebtoken');
 
 // Auth middleware (reused from your auth.js)
 function authenticateToken(req, res, next) {

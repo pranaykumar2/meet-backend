@@ -112,7 +112,7 @@
   {
     "title": "Weekly Standup",
     "description": "Weekly team progress meeting",
-    "meeting_time": "2025-05-01T15:00:00Z",
+    "meeting_time": "2025-05-01 15:00:00",
     "duration_minutes": 45,
     "group_id": 2
   }
@@ -142,7 +142,7 @@
   {
     "title": "Updated Meeting Title",
     "description": "Updated description",
-    "meeting_time": "2025-05-02T16:00:00Z",
+    "meeting_time": "2025-05-02 16:00:00",
     "duration_minutes": 60
   }
   ```
